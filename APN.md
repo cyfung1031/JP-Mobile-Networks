@@ -31,4 +31,4 @@
 * Set them after entry creating
 
 ### Barrier
-* Looks Unstable. Leave them blank
+* Looks Unstable. Leave it None
