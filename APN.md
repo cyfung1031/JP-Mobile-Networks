@@ -23,6 +23,11 @@
 * MVNO Value: SoftBank
 
 
+## APN Entry Creationg
+* Leave APN Type Blank
+* Don't add it with MVNO setting in Dual SIM
+  * Set the SIMs one and one first. Insert both SIMs after done.
+
 
 ### APN Type will be set to default,mms,supl,hipri,fota,cbs,mcs,xcap
 * Essential Values: default,mms,supl,hipri
