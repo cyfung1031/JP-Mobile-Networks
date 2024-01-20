@@ -28,3 +28,7 @@
 * Essential Values: default,mms,supl,hipri
 * Recommended Values (1): default,ia,mms,supl,hipri,dun
 * Recommended Values (2): default,ia,mms,supl,hipri,dun,fota,cbs,mcs,xcap
+* Set them after saving
+
+### Barrier
+* Looks Unstable. Leave them blank
